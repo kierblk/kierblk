@@ -1,4 +1,4 @@
-![Hey There](https://github.com/saramccombs/saramccombs/blob/master/HeyThere.png)
+![Hey There](https://github.com/saramccombs/saramccombs/blob/main/HeyThere.png)
 
 # What I've Written Lately...
 <!-- BLOG-POST-LIST:START -->
