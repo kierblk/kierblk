@@ -1,4 +1,4 @@
-![Hey There](https://github.com/saramccombs/saramccombs/blob/main/HeyThere.png)
+![Hey There]()
 
 # What I've Written on <a href="https://dev.to/saramccombs"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sara McCombs (she/her)'s DEV Profile" height="30" width="30"></a> Lately...
 <!-- BLOG-POST-LIST:START -->
